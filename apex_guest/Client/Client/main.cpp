@@ -106,7 +106,7 @@ void DisplayTerm()
 	std::cout << " Player Glow       Numpad *            [     ]         Firing Range      F9                  [     ]" << std::endl;
 	std::cout << " Max Distance      Arrows LEFT/RIGHT   [         ]     CQC Fov           F3                  [      ]" << std::endl;
 	std::cout << " CQC Aimbot        MOUSE BUTTON 4      [     ]         CQC Smooth        F4                  [      ]" << std::endl;
-	std::cout << " Headshot Aimbot   MOUSE BUTTON 5      [     ]         Apex                                  [ V2.3 ]" << std::endl;
+	std::cout << " Headshot Aimbot   MOUSE BUTTON 5      [     ]         Apex                                  [v3.0.5]" << std::endl;
 	std::cout << " -------------------------------------------------     --------------------------------------------------" << std::endl;
 	printf(XorStr(" add_addr: 0x%I64x\n"), (uint64_t)&add[0] - (uint64_t)GetModuleHandle(NULL));
 if (active) {
